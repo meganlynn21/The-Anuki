@@ -9180,6 +9180,18 @@
             "DeathLineMK"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SetGameResolutionSize"
+          },
+          "parameters": [
+            "",
+            "3000",
+            "1000"
+          ],
+          "subInstructions": []
         }
       ],
       "events": []

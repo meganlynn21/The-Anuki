@@ -3786,6 +3786,897 @@
         "name": "NewObject-1-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\idle09.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_landing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_landing.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_mid01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_mid01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_mid02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_mid02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_start01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_start01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_start02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_start02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_mid03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_mid03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/jump_mid04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\jump_mid04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/run08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Idle, run, jump\\run08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Background/sky_solid_color.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Background\\sky_solid_color.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Background/clouds.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Background\\clouds.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Background/mountain_depth_z_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Background\\mountain_depth_z_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Background/mountain_depth_z_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Background\\mountain_depth_z_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__81.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__81.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__82.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__82.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__62.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__51.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__50.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__65.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__65.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__54.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__55.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/pixel_platform_64x64_tileset01__68.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\pixel_platform_64x64_tileset01__68.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\idle09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/attack01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\attack01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/attack02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\attack02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/attack03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\attack03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/attack04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\attack04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/attack05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\attack05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/attack06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\attack06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/hit01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\hit01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/hit02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\hit02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/pixel_platform_64x64_tileset01__03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\pixel_platform_64x64_tileset01__03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/pixel_platform_64x64_tileset01__04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\pixel_platform_64x64_tileset01__04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/pixel_platform_64x64_tileset01__05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\pixel_platform_64x64_tileset01__05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/pixel_platform_64x64_tileset01__06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\pixel_platform_64x64_tileset01__06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/pixel_platform_64x64_tileset01__07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\pixel_platform_64x64_tileset01__07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/pixel_platform_64x64_tileset01__08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\pixel_platform_64x64_tileset01__08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "5f05fad5712846f89a1e2e286daba8ab49916283/Nostalgica_Pixel_Platformer_TileSet_01/64/png/Coin/coin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "5f05fad5712846f89a1e2e286daba8ab49916283\\Nostalgica_Pixel_Platformer_TileSet_01\\64\\png\\Coin\\coin.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Left.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/Idle-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\Idle-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/walk01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\walk01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/walk02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\walk02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/walk03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\walk03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/walk04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\walk04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/walk05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\walk05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Enemy05/walk06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Enemy05\\walk06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "jump.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "jump.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "Boss Battle music 1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Boss Battle music 1.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "Female Battle Cry1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Female Battle Cry1.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Attacks/AttackA07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Attacks\\AttackA07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/hit01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\hit01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/hit02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\hit02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/hit03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\hit03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/death01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\death01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/death02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\death02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/death03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\death03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/death04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\death04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Hit, death/death05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\Gino Character\\PNG\\Hit, death\\death05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4a2a1e6b907ac5dd8a0c581547aeee69/heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a2a1e6b907ac5dd8a0c581547aeee69\\heart.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health bar0_[empty].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health bar0_[empty].png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3824,10 +4715,18 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/overmp"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/easybossnm"
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/sinemovement"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/flash"
