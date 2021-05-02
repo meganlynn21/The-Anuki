@@ -1135,22 +1135,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 8558,
-      "layer": "",
-      "locked": false,
-      "name": "spaceMK",
-      "persistentUuid": "db61aa2a-4701-4e94-831a-de6c019463fe",
-      "width": 84196,
-      "x": -9996,
-      "y": -3635,
-      "zOrder": -1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "height": 80,
       "layer": "",
       "locked": false,
@@ -2975,22 +2959,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 8558,
-      "layer": "",
-      "locked": false,
-      "name": "spaceMK",
-      "persistentUuid": "9ad018a0-d045-4ef6-b157-dc61efc58331",
-      "width": 84196,
-      "x": -9600,
-      "y": -3520,
-      "zOrder": -1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "height": 80,
       "layer": "",
       "locked": false,
@@ -3848,6 +3816,38 @@
       "x": -6880,
       "y": 480,
       "zOrder": 20055,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": false,
+      "name": "GroundPlatformMK",
+      "persistentUuid": "b43ac2a5-de60-43aa-9351-135d508cc36d",
+      "width": 0,
+      "x": 4375,
+      "y": 5750,
+      "zOrder": 20058,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 9451,
+      "layer": "",
+      "locked": false,
+      "name": "SpaceMK",
+      "persistentUuid": "91bba9f1-3647-4036-ac4e-bffd419b0a5b",
+      "width": 40265,
+      "x": -12619,
+      "y": -3119,
+      "zOrder": -1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8693,16 +8693,6 @@
       ]
     },
     {
-      "height": 32,
-      "name": "spaceMK",
-      "tags": "",
-      "texture": "seamless space.PNG",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "behaviors": []
-    },
-    {
       "name": "DeathLineMK",
       "tags": "",
       "type": "Sprite",
@@ -9018,6 +9008,16 @@
           ]
         }
       ]
+    },
+    {
+      "height": 32,
+      "name": "SpaceMK",
+      "tags": "",
+      "texture": "seamless space.PNG",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "behaviors": []
     }
   ],
   "events": [

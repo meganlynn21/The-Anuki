@@ -18,8 +18,8 @@
     "version": "1.0.0",
     "name": "Project",
     "author": "",
-    "windowWidth": 3000,
-    "windowHeight": 1000,
+    "windowWidth": 600,
+    "windowHeight": 800,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -2741,6 +2741,15 @@
         "name": "GameArt\\Sounds\\yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
         "userAdded": true
       }
     ],
