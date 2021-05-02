@@ -1,3 +1,6 @@
 # Don't upload .psd files (photoshop)
 *.psd
-
+# Don't upload autosave files
+*.autosave
+*.json.autosave
+*.*.autosave

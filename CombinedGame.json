@@ -1,0 +1,3846 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectUuid": "90ea9fff-96a6-446c-b006-790f94871aad",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptHeight",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Project",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": false
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Ninja/Ninja.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Ninja\\Ninja.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/SamuraiLight/SamuraiLight.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\SamuraiLight\\SamuraiLight.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\idle09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Backgrounds/Background Forest Outside/Background_Forest_Outside_1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Backgrounds\\Background Forest Outside\\Background_Forest_Outside_1920x1080.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tilesets/Dirt/PNG/dirt_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tilesets\\Dirt\\PNG\\dirt_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tilesets/Dirt/PNG/dirt_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tilesets\\Dirt\\PNG\\dirt_0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tilesets/Dirt/PNG/dirt_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tilesets\\Dirt\\PNG\\dirt_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tilesets/Dirt/0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tilesets\\Dirt\\0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Backgrounds/Background Cave/Background_Cave_1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Backgrounds\\Background Cave\\Background_Cave_1920x1080.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tilesets/Rock/PNG/Rock_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tilesets\\Rock\\PNG\\Rock_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Backgrounds/Background Forest Inside/Background_Forest_1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Backgrounds\\Background Forest Inside\\Background_Forest_1920x1080.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Backgrounds/Background Mountain Dawn/Background_Dawn_1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Backgrounds\\Background Mountain Dawn\\Background_Dawn_1920x1080.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_landing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_landing.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_mid01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_mid01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_mid02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_mid02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_mid03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_mid03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_mid04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_mid04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/run08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\run08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_start01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_start01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Idle, run, jump/jump_start02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Idle, run, jump\\jump_start02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/Menu/PNG/board.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\Menu\\PNG\\board.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/Menu/PNG/icon_play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\Menu\\PNG\\icon_play.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/Buttons/Button Green/play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\Buttons\\Button Green\\play.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/Buttons/Button Green/PlayHover.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\Buttons\\Button Green\\PlayHover.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/platform_gfx/tiles/block4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\platform_gfx\\tiles\\block4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/platform_gfx/tiles/block1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\platform_gfx\\tiles\\block1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/platform_gfx/baddies/totem_walk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\platform_gfx\\baddies\\totem_walk.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy03/attack_left01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy03\\attack_left01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\idle07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/walk01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\walk01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/walk02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\walk02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/walk03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\walk03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/walk04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\walk04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/walk05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\walk05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemy04/walk06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemy04\\walk06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/Directional Pad/Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\Directional Pad\\Left.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/Directional Pad/Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\Directional Pad\\Right.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackA07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackA07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackB01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackB01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackB02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackB02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackB03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackB03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackB04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackB04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackB05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackB05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NoHit-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NoHit-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackC02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackC02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackD06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackD06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackC04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackC04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackC05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackC05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackC03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackC03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackD05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackD05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Backgrounds/Background Mountain Snow/Background_Mountain_Snow_1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Backgrounds\\Background Mountain Snow\\Background_Mountain_Snow_1920x1080.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Backgrounds/Background Mountain/Background_Mountain_1920x1080.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Backgrounds\\Background Mountain\\Background_Mountain_1920x1080.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - Sword Attack  Sound Effect.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - Sword Attack  Sound Effect.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - knife slash sound effect.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - knife slash sound effect.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/264982__ameangelofsin__female-battle-cries-grunts-[AudioTrimmer.com].mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\264982__ameangelofsin__female-battle-cries-grunts-[AudioTrimmer.com].mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - Sword Sound Effects All Sounds-[AudioTrimmer.com].mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - Sword Sound Effects All Sounds-[AudioTrimmer.com].mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/female'.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\female'.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/walk/Evilninja_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\walk\\Evilninja_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/walk/Evilninja_walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\walk\\Evilninja_walk_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/walk/Evilninja_walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\walk\\Evilninja_walk_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/walk/Evilninja_walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\walk\\Evilninja_walk_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/walk/Evilninja_walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\walk\\Evilninja_walk_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/walk/Evilninja_walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\walk\\Evilninja_walk_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Characters/Evil Ninja 1/die/Evilninja_die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Characters\\Evil Ninja 1\\die\\Evilninja_die_9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/diamond.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\diamond.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/topaz.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\topaz.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/ruby.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\ruby.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/sapphire.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\sapphire.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/garnet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\garnet.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/emerald.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\emerald.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/jump.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\jump.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/walk/Evilninja_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\walk\\Evilninja_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/walk/Evilninja_walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\walk\\Evilninja_walk_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/walk/Evilninja_walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\walk\\Evilninja_walk_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/walk/Evilninja_walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\walk\\Evilninja_walk_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/walk/Evilninja_walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\walk\\Evilninja_walk_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/walk/Evilninja_walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\walk\\Evilninja_walk_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 1/die/Evilninja_die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 1\\die\\Evilninja_die_9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - Gem Spyro  Sound Effect HD-[AudioTrimmer.com].mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - Gem Spyro  Sound Effect HD-[AudioTrimmer.com].mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/walk/Evilninja2_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\walk\\Evilninja2_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/walk/Evilninja2_walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\walk\\Evilninja2_walk_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/walk/Evilninja2_walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\walk\\Evilninja2_walk_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/walk/Evilninja2_walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\walk\\Evilninja2_walk_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/walk/Evilninja2_walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\walk\\Evilninja2_walk_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/walk/Evilninja2_walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\walk\\Evilninja2_walk_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Evil Ninja 2/die/Evilninja2_die_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Evil Ninja 2\\die\\Evilninja2_die_10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/fly/Bat_Fly_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\fly\\Bat_Fly_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/fly/Bat_Fly_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\fly\\Bat_Fly_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/fly/Bat_Fly_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\fly\\Bat_Fly_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/fly/Bat_Fly_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\fly\\Bat_Fly_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Bat/die/Bat_Die_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Bat\\die\\Bat_Die_15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tiles/Ground&Stone/Stone/ground0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tiles\\Ground&Stone\\Stone\\ground0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com -The Clifflands  Octopath Traveler OST 1 Hour Music Extended.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com -The Clifflands  Octopath Traveler OST 1 Hour Music Extended.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/clifflands.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\clifflands.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/Life Bar/Life Bar Full.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\Life Bar\\Life Bar Full.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/Health bar/Health bar15_[full].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\Health bar\\Health bar15_[full].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/Health potion.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\Health potion.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Hit, death/death01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Hit, death\\death01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Hit, death/death02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Hit, death\\death02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Hit, death/death03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Hit, death\\death03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Hit, death/death04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Hit, death\\death04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Hit, death/death05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Hit, death\\death05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/game_over.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\game_over.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/Menu/PNG/icon_resume.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\Menu\\PNG\\icon_resume.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/female death sound.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\female death sound.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/female pain sound.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\female pain sound.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/HomeBtn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\HomeBtn.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/RetryBtn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\RetryBtn.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tiles/Ground&Stone/Ground/ground0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tiles\\Ground&Stone\\Ground\\ground0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/idle/Boss3_idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\idle\\Boss3_idle_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/idle/Boss3_idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\idle\\Boss3_idle_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/idle/Boss3_idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\idle\\Boss3_idle_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/idle/Boss3_idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\idle\\Boss3_idle_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/idle/Boss3_idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\idle\\Boss3_idle_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/idle/Boss3_idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\idle\\Boss3_idle_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/walk/Boss3_walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\walk\\Boss3_walk_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/run/Boss3_run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\run\\Boss3_run_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/run/Boss3_run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\run\\Boss3_run_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/run/Boss3_run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\run\\Boss3_run_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/run/Boss3_run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\run\\Boss3_run_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/run/Boss3_run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\run\\Boss3_run_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/run/Boss3_run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\run\\Boss3_run_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/attack 1/Boss3_attack1_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\attack 1\\Boss3_attack1_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Boss 3/die/Boss3_die_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Boss 3\\die\\Boss3_die_13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Background/02 background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Background\\02 background.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Background/03 background A.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Background\\03 background A.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Background/01 background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Background\\01 background.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/Background/BG-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\Background\\BG-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Tiles/winter ground/ground0 copy.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Tiles\\winter ground\\ground0 copy.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Game World Assets/objects/18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Game World Assets\\objects\\18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/platform_gfx/tiles/block2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\platform_gfx\\tiles\\block2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/png/0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\png\\0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/ending-screen.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\ending-screen.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/In Game/PNG/Play Btn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\In Game\\PNG\\Play Btn.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Gino Character/PNG/Attacks/AttackC06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Gino Character\\PNG\\Attacks\\AttackC06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/up_icon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\up_icon.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/GUI/down_icon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\GUI\\down_icon.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Free Platform Game Assets/Platform Game Assets/Enemies/png/128x128/Mace.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Free Platform Game Assets\\Platform Game Assets\\Enemies\\png\\128x128\\Mace.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject5-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject5-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject5-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject5-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject5-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject5-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject5-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - Diablo 2 SFX  Drink Potion Sound Effect Notification.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - Diablo 2 SFX  Drink Potion Sound Effect Notification.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/Octopath Traveler OST  The Highlands.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\Octopath Traveler OST  The Highlands.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "seamless space.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "seamless space.PNG",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/Gem Spyro  Sound Effect.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\Gem Spyro  Sound Effect.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/NxtLvl.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\NxtLvl.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/walk/skeleton1_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\walk\\skeleton1_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/walk/skeleton1_walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\walk\\skeleton1_walk_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/walk/skeleton1_walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\walk\\skeleton1_walk_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/walk/skeleton1_walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\walk\\skeleton1_walk_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/walk/skeleton1_walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\walk\\skeleton1_walk_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/walk/skeleton1_walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\walk\\skeleton1_walk_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Skeleton 1/die/skeleton1_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Skeleton 1\\die\\skeleton1_die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/fly/Ghostninja_fly_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\fly\\Ghostninja_fly_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/fly/Ghostninja_fly_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\fly\\Ghostninja_fly_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/fly/Ghostninja_fly_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\fly\\Ghostninja_fly_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/fly/Ghostninja_fly_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\fly\\Ghostninja_fly_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Ghost Ninja/die/Ghostninja_die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Ghost Ninja\\die\\Ghostninja_die_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/walk/Maskedman_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\walk\\Maskedman_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/walk/Maskedman_walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\walk\\Maskedman_walk_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/walk/Maskedman_walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\walk\\Maskedman_walk_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/walk/Maskedman_walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\walk\\Maskedman_walk_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/walk/Maskedman_walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\walk\\Maskedman_walk_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/walk/Maskedman_walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\walk\\Maskedman_walk_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GameArt/Enemies/Masked Man/die/Maskedman_die_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GameArt\\Enemies\\Masked Man\\die\\Maskedman_die_9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - Final Fantasy VII  JENOVA HQ.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - Final Fantasy VII  JENOVA HQ.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Sounds/yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Sounds\\yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/02. Crystal World/background01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\02. Crystal World\\background01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/02. Crystal World/main_lev_build_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\02. Crystal World\\main_lev_build_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_landing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_landing.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_start01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_start01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_start02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_start02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "coinGold.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coinGold.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle09.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Left.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile063.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile063.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ezgif.com-gif-maker (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ezgif.com-gif-maker (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ezgif.com-gif-maker (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ezgif.com-gif-maker (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "main_lev_build_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "main_lev_build_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile077.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile077.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "handpaintedwall2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "handpaintedwall2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "coin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "coin.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Realm of the Mad God Soundtrack - Title BGM.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Realm of the Mad God Soundtrack - Title BGM.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "abyss_brutes_death.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "abyss_brutes_death.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "bladeSwing.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bladeSwing.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar15_[full].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar15_[full].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar10_[Normal].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar10_[Normal].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar0_[empty].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar0_[empty].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "game_over.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "game_over.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "Gems",
+      "type": "string",
+      "value": "0"
+    },
+    {
+      "name": "HasSwordMP",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mklevel-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mkgameover"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mkfinishline"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-mp"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/overmp"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/flash"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/newextension"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/health"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
