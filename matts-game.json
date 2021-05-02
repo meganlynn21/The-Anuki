@@ -1,0 +1,1179 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectUuid": "bbe6d086-cddd-4b73-b4d6-f47891480816",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Project",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": false
+    },
+    "extensionProperties": [],
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\idle08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/02. Crystal World/background01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\02. Crystal World\\background01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/02. Crystal World/main_lev_build_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\02. Crystal World\\main_lev_build_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_landing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_landing.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_mid04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_mid04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_start01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_start01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/jump_start02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\jump_start02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Idle, run, jump/run07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Idle, run, jump\\run07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "coinGold.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "coinGold.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle09.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/idle11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\idle11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Left.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy02/walk08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy02\\walk08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile063.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile063.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ezgif.com-gif-maker (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ezgif.com-gif-maker (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ezgif.com-gif-maker (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ezgif.com-gif-maker (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "main_lev_build_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "main_lev_build_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/dagger08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\dagger08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/cut/New folder/tile077.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\cut\\New folder\\tile077.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "handpaintedwall2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "handpaintedwall2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gino Character/PNG/Attacks/AttackA07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Gino Character\\PNG\\Attacks\\AttackA07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "coin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "coin.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background/Collectible/diamond_big_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background\\Collectible\\diamond_big_05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Realm of the Mad God Soundtrack - Title BGM.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Realm of the Mad God Soundtrack - Title BGM.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "abyss_brutes_death.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "abyss_brutes_death.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "bladeSwing.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bladeSwing.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\idle07.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Enemy04/walk06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Enemy04\\walk06.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar15_[full].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar15_[full].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar10_[Normal].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar10_[Normal].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "health/Health bar0_[empty].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "health\\Health bar0_[empty].png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "game_over.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "game_over.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "HasSwordMP",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-mp"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/overmp"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/flash"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/health"
+    }
+  ],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
