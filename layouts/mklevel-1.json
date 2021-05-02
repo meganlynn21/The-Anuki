@@ -8720,7 +8720,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "NewObject-1.png",
+                  "image": "Health-1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9178,6 +9178,18 @@
           },
           "parameters": [
             "DeathLineMK"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SetGameResolutionSize"
+          },
+          "parameters": [
+            "",
+            "3000",
+            "1000"
           ],
           "subInstructions": []
         }
