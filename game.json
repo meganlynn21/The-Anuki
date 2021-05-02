@@ -3787,7 +3787,7 @@
         "smoothed": true,
         "userAdded": true
       },
-          {
+      {
         "alwaysLoaded": false,
         "file": "4a2a1e6b907ac5dd8a0c581547aeee69/Gino Character/PNG/Idle, run, jump/idle01.png",
         "kind": "image",
@@ -4677,7 +4677,7 @@
         "name": "Health bar0_[empty].png",
         "smoothed": true,
         "userAdded": true
-      }    
+      }
     ],
     "resourceFolders": []
   },
@@ -4715,15 +4715,15 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/overmp"
-    }, 
-        {
+    },
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/easybossnm"
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
-        {
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/sinemovement"
     },
