@@ -5386,6 +5386,1347 @@
         "name": "Health bar0_[empty].png",
         "smoothed": true,
         "userAdded": true
+      },
+          {
+        "alwaysLoaded": false,
+        "file": "0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "22.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "32.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "42.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "33.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "34.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "43.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "52.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "62.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "72.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "25.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "35.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "44.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "53.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "63.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "63.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "73.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "73.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "82.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "82.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "92.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "92.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "102.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "102.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "112.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "112.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "36.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "45.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "54.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "64.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "74.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "74.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "83.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "83.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "93.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "93.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "103.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "103.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "113.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "113.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "122.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "122.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "132.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "132.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "142.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "142.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "152.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "152.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "162.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "162.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "172.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "172.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Background_Cave_1920x10802.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background_Cave_1920x10802.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle08.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle09.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run05.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "run08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_start01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_start01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_start02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_start02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_mid01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_mid01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_mid02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_mid02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_mid03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_mid03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_mid04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_mid04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "jump_landing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "jump_landing.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Rockcave_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rockcave_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Rockcave_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rockcave_17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "111.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "210.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "210.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "310.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "310.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "114.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "114.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "211.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "211.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "311.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "311.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "48.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "56.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "56.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "115.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "115.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "212.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "212.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "312.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "312.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "49.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA052.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA052.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA062.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA062.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackA072.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackA072.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackB012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackB012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackB022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackB022.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackB032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackB032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackB042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackB042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackB052.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackB052.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC012.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC022.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC042.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC052.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC052.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC062.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC062.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "AttackC072.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AttackC072.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "death012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "death012.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "death022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "death022.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "death032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "death032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "death042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "death042.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "death052.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "death052.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hit012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hit012.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hit022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hit022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hit032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hit032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump042.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump042.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump052.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump052.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump062.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump062.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "attack_in_jump072.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "attack_in_jump072.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health bar15_[full]2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health bar15_[full]2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health bar0_[empty].png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health bar0_[empty].png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health bar3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health bar7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health bar7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Health bar11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health bar11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "116.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "116.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "213.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "213.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "313.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "313.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "410.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "410.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "57.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "65.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "65.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "The Woodlands -Octopath Traveler.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "The Woodlands -Octopath Traveler.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5767,7 +7108,11 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/overmp"
-    }
+    },
+       {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/finalboss"
+    }  
   ],
   "externalEvents": [
         {
@@ -5795,6 +7140,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/health"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/timedbackandforthmovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/stayonscreen"
     }
   ],
   "externalLayouts": [],
