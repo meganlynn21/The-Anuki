@@ -267,6 +267,19 @@
             "Left"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "RestartButton",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
         }
       ],
       "actions": [
@@ -288,7 +301,7 @@
           },
           "parameters": [
             "",
-            "\"PREVIOUSLEVELHERE!!!\"",
+            "\"MiguelsIntroScrene\"",
             ""
           ],
           "subInstructions": []
@@ -321,7 +334,7 @@
             "value": "SourisSurObjet"
           },
           "parameters": [
-            "RestartButton",
+            "HomeButton",
             "",
             "",
             ""
@@ -355,7 +368,7 @@
             "value": "SourisSurObjet"
           },
           "parameters": [
-            "RestartButton",
+            "HomeButton",
             "",
             "",
             ""
@@ -391,6 +404,19 @@
           "parameters": [
             "",
             "Left"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "HomeButton",
+            "",
+            "",
+            ""
           ],
           "subInstructions": []
         }
