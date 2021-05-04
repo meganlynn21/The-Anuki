@@ -23,7 +23,7 @@
     "gridWidth": 32,
     "snap": true,
     "windowMask": false,
-    "zoomFactor": 1
+    "zoomFactor": 0.8
   },
   "objectsGroups": [
     {
@@ -68,9 +68,9 @@
       "name": "Startbutton",
       "persistentUuid": "af9a7bc7-be1f-42a5-958e-63ae1ba966d7",
       "width": 381,
-      "x": 248,
-      "y": 446,
-      "zOrder": 4,
+      "x": 182,
+      "y": 260,
+      "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -132,8 +132,8 @@
       "name": "MovementInstruct",
       "persistentUuid": "6a97534f-6695-47fb-8333-6a6629821e80",
       "width": 220,
-      "x": 28,
-      "y": 423,
+      "x": 26,
+      "y": 251,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -170,9 +170,9 @@
       "underlined": false,
       "variables": [],
       "behaviors": [],
-      "string": "                                                                                         \nOnce upon a time there was a poor boy name Edmund whoe lived with his grandparents right outside the city walls on their farm. His parents died from the previous war from the monster tribe Anuki, they sacrificed their lives in order to save Edmunds. 10 years later Edmund is an adult now and helps his grandparents with the farm but he doesn’t want to work on the farm for the rest of his life, he seeks adventure.  One night Edmund wakes up from a nightmare and noticed a glowing orb from outside, it calls to him as he follows  the light into a nearby forest.  Eventually the orb stops on a rusty old sword but when Edmund picks it up the sword glows with immense light and power it attracts the Aniki tribe, you use your new power to fight the Anuki and get vengeance for your parents.\n",
+      "string": "                                                                                         \nOnce upon a time there was a poor boy name Edmund who lived with his grandparents right outside the city walls on their farm. His parents died from the previous war from the monster tribe Anuki, they sacrificed their lives in order to save Edmunds. 10 years later Edmund is an adult now and helps his grandparents with the farm but he doesn’t want to work on the farm for the rest of his life, he seeks adventure.  One night Edmund wakes up from a nightmare and noticed a glowing orb from outside, it calls to him as he follows the light into a nearby forest.  Eventually the orb stops on a rusty old sword but when Edmund picks it up the sword glows with immense light and power it attracts the Anuki tribe, you use your new power to fight the Anuki and get vengeance for your parents.\n",
       "font": "FinalMAVGD/Bimbo_JVE.ttf",
-      "characterSize": 25,
+      "characterSize": 18,
       "color": {
         "b": 255,
         "g": 255,

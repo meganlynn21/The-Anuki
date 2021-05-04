@@ -97,7 +97,7 @@
   },
   "resources": {
     "resources": [
-          {
+      {
         "alwaysLoaded": false,
         "file": "p1_stand.png",
         "kind": "image",
@@ -5387,7 +5387,7 @@
         "smoothed": true,
         "userAdded": true
       },
-          {
+      {
         "alwaysLoaded": false,
         "file": "0.png",
         "kind": "image",
@@ -6732,7 +6732,7 @@
     "resourceFolders": []
   },
   "objects": [
-        {
+    {
       "name": "HomeButton",
       "tags": "",
       "type": "Sprite",
@@ -7061,7 +7061,7 @@
           ]
         }
       ]
-    }  
+    }
   ],
   "objectsGroups": [],
   "variables": [
@@ -7077,7 +7077,7 @@
     }
   ],
   "layouts": [
-      {
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/miguelsstartingscreen"
     },
@@ -7090,10 +7090,6 @@
       "referenceTo": "/layouts/miguelsintroscrene"
     },
     {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/miguelsvictoryscrene"
-    },
-   {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/mklevel-1"
     },
@@ -7109,23 +7105,27 @@
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/overmp"
     },
-       {
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/finalboss"
-    }  
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/miguelsvictoryscrene"
+    }
   ],
   "externalEvents": [
-        {
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/enemiesmanagement"
     }
   ],
   "eventsFunctionsExtensions": [
-       {
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/parallax"
     },
-       {
+    {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/sinemovement"
     },
