@@ -23,7 +23,7 @@
     "gridWidth": 80,
     "snap": false,
     "windowMask": false,
-    "zoomFactor": 0.21000000000000005
+    "zoomFactor": 0.11000000000000004
   },
   "objectsGroups": [],
   "variables": [
@@ -2095,22 +2095,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 64,
-      "layer": "",
-      "locked": false,
-      "name": "DeathLineMK",
-      "persistentUuid": "3f728e44-e2b8-492f-9dd6-0964fd4dd324",
-      "width": 61767,
-      "x": -9627,
-      "y": 1709,
-      "zOrder": 20053,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "height": 80,
       "layer": "",
       "locked": false,
@@ -3848,6 +3832,22 @@
       "x": -12619,
       "y": -3119,
       "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 837,
+      "layer": "",
+      "locked": false,
+      "name": "DeathLine2",
+      "persistentUuid": "4aaab006-86af-4261-8c59-ac9c5b559f70",
+      "width": 5437,
+      "x": -10421,
+      "y": 641,
+      "zOrder": 20059,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -9018,6 +9018,45 @@
       "width": 32,
       "variables": [],
       "behaviors": []
+    },
+    {
+      "name": "DeathLine2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Health-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
