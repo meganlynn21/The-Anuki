@@ -251,6 +251,19 @@
             "Left"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "Startbutton",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
         }
       ],
       "actions": [
@@ -283,6 +296,19 @@
             "Left"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "Startbutton",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
         }
       ],
       "actions": [
@@ -299,14 +325,6 @@
           "subInstructions": []
         }
       ],
-      "events": []
-    },
-    {
-      "disabled": false,
-      "folded": false,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [],
       "events": []
     }
   ],

@@ -23,7 +23,7 @@
     "gridWidth": 32,
     "snap": true,
     "windowMask": false,
-    "zoomFactor": 0.37999999999999945
+    "zoomFactor": 0.3399999999999994
   },
   "objectsGroups": [],
   "variables": [
@@ -3614,7 +3614,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene\"",
+            "\"MiguelsGameOverScene \"",
             ""
           ],
           "subInstructions": []
@@ -4213,7 +4213,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene\"",
+            "\"MiguelsGameOverScene \"",
             ""
           ],
           "subInstructions": []

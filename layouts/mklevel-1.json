@@ -13881,7 +13881,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene\"",
+            "\"MiguelsGameOverScene \"",
             ""
           ],
           "subInstructions": []
@@ -13961,7 +13961,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene\"",
+            "\"MiguelsGameOverScene \"",
             ""
           ],
           "subInstructions": []
