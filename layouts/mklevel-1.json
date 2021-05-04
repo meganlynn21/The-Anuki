@@ -23,7 +23,7 @@
     "gridWidth": 80,
     "snap": false,
     "windowMask": false,
-    "zoomFactor": 0.11000000000000004
+    "zoomFactor": 0.05
   },
   "objectsGroups": [],
   "variables": [
@@ -2095,6 +2095,22 @@
     {
       "angle": 0,
       "customSize": true,
+      "height": 64,
+      "layer": "",
+      "locked": false,
+      "name": "DeathLineMK",
+      "persistentUuid": "3f728e44-e2b8-492f-9dd6-0964fd4dd324",
+      "width": 61767,
+      "x": -9627,
+      "y": 1709,
+      "zOrder": 20053,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
       "height": 80,
       "layer": "",
       "locked": false,
@@ -3839,15 +3855,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 837,
+      "height": 49,
       "layer": "",
       "locked": false,
-      "name": "DeathLine2",
-      "persistentUuid": "4aaab006-86af-4261-8c59-ac9c5b559f70",
-      "width": 5437,
-      "x": -10421,
-      "y": 641,
-      "zOrder": 20059,
+      "name": "StarMK2",
+      "persistentUuid": "f2d3b027-b9b5-4915-afde-85573621d103",
+      "width": 17655,
+      "x": -9012,
+      "y": 1678,
+      "zOrder": 20060,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -8432,6 +8448,45 @@
       ]
     },
     {
+      "name": "StarMK2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "0",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "GameArt\\png\\0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "StarMK",
       "tags": "",
       "type": "Sprite",
@@ -8683,45 +8738,6 @@
                     "name": "centre",
                     "x": 107.30799865722656,
                     "y": 11.730799674987793
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "DeathLineMK",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Health-1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
                   },
                   "customCollisionMask": []
                 }
@@ -9020,7 +9036,7 @@
       "behaviors": []
     },
     {
-      "name": "DeathLine2",
+      "name": "WallBarrier",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -9033,11 +9049,11 @@
           "directions": [
             {
               "looping": false,
-              "timeBetweenFrames": 0.07999999821186066,
+              "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Health-1.png",
+                  "image": "NewObject-1-0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9060,6 +9076,42 @@
     }
   ],
   "events": [
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "StarMK2",
+            "EdmundMK",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MiguelsGameOverScene \"",
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
     {
       "disabled": false,
       "folded": false,
@@ -9207,16 +9259,6 @@
           },
           "parameters": [
             "DownMK"
-          ],
-          "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "Cache"
-          },
-          "parameters": [
-            "DeathLineMK"
           ],
           "subInstructions": []
         },
@@ -13771,6 +13813,18 @@
             "1"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MiguelsGameOverScene \"",
+            ""
+          ],
+          "subInstructions": []
         }
       ],
       "events": [
@@ -13881,7 +13935,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene \"",
+            "\"MiguelsGameOverScene\"",
             ""
           ],
           "subInstructions": []
@@ -13926,42 +13980,6 @@
             "GameArt\\Sounds\\female death sound.wav",
             "",
             "",
-            ""
-          ],
-          "subInstructions": []
-        }
-      ],
-      "events": []
-    },
-    {
-      "disabled": false,
-      "folded": false,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": false,
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "EdmundMK",
-            "DeathLineMK",
-            "",
-            "",
-            ""
-          ],
-          "subInstructions": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "inverted": false,
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"MiguelsGameOverScene \"",
             ""
           ],
           "subInstructions": []

@@ -2293,6 +2293,15 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "Health-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
         "file": "GameArt/Gino Character/PNG/Hit, death/death01.png",
         "kind": "image",
         "metadata": "",
@@ -6717,15 +6726,6 @@
         "name": "The Woodlands -Octopath Traveler.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Health-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Health-1.png",
-        "smoothed": true,
         "userAdded": true
       }
     ],

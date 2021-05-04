@@ -68,8 +68,8 @@
       "name": "Startbutton",
       "persistentUuid": "af9a7bc7-be1f-42a5-958e-63ae1ba966d7",
       "width": 381,
-      "x": 182,
-      "y": 260,
+      "x": 225,
+      "y": 289,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -350,19 +350,6 @@
           "parameters": [
             "",
             "Left"
-          ],
-          "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Startbutton",
-            "",
-            "",
-            ""
           ],
           "subInstructions": []
         }

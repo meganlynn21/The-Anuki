@@ -303,19 +303,6 @@
             "Left"
           ],
           "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "HomeButton",
-            "",
-            "",
-            ""
-          ],
-          "subInstructions": []
         }
       ],
       "actions": [

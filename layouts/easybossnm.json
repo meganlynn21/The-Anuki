@@ -5822,15 +5822,15 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "height": 78,
+      "customSize": false,
+      "height": 0,
       "layer": "",
       "locked": false,
       "name": "deathline",
       "persistentUuid": "6734c3e8-cfaa-44cc-a0c0-96c6d9af5f62",
-      "width": 695,
-      "x": -535,
-      "y": 789,
+      "width": 0,
+      "x": 631,
+      "y": 415,
       "zOrder": 27,
       "numberProperties": [],
       "stringProperties": [],
@@ -5838,15 +5838,15 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "height": 67,
+      "customSize": false,
+      "height": 0,
       "layer": "",
       "locked": false,
       "name": "deathline",
       "persistentUuid": "24a6bad4-ab86-4ece-8093-88d6029e079c",
-      "width": 911,
-      "x": 630,
-      "y": 727,
+      "width": 0,
+      "x": 627,
+      "y": 330,
       "zOrder": 28,
       "numberProperties": [],
       "stringProperties": [],
@@ -8496,18 +8496,6 @@
             ""
           ],
           "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"MiguelsGameOverScene \"",
-            ""
-          ],
-          "subInstructions": []
         }
       ],
       "events": []
@@ -8725,7 +8713,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene \"",
+            "\"MiguelsGameOverScene\"",
             ""
           ],
           "subInstructions": []

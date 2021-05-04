@@ -23,7 +23,7 @@
     "gridWidth": 32,
     "snap": true,
     "windowMask": false,
-    "zoomFactor": 0.3399999999999994
+    "zoomFactor": 0.37999999999999945
   },
   "objectsGroups": [],
   "variables": [
@@ -169,13 +169,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "4e13892f-141e-49d1-bbad-07447e361a2d",
-      "width": 0,
+      "width": 64,
       "x": 320,
       "y": 160,
       "zOrder": 18,
@@ -217,14 +217,14 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "bdd250dc-1c56-45a6-914c-0d1900a628c1",
-      "width": 0,
-      "x": 512,
+      "width": 64,
+      "x": 480,
       "y": 384,
       "zOrder": 21,
       "numberProperties": [],
@@ -233,14 +233,14 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "c9b27c47-4ef8-45e2-bdca-9228f41176d0",
-      "width": 0,
-      "x": 320,
+      "width": 64,
+      "x": 288,
       "y": 320,
       "zOrder": 22,
       "numberProperties": [],
@@ -249,13 +249,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "a8377377-5ca7-4832-b981-1646f5933d37",
-      "width": 0,
+      "width": 64,
       "x": 512,
       "y": 256,
       "zOrder": 23,
@@ -275,22 +275,6 @@
       "x": 256,
       "y": -352,
       "zOrder": 24,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "",
-      "locked": false,
-      "name": "RestartMP",
-      "persistentUuid": "554d1bf5-c7d4-4fee-ae6c-aa1647c8d0b2",
-      "width": 0,
-      "x": -32,
-      "y": 480,
-      "zOrder": 25,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -425,13 +409,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "24e9d4fe-0082-411f-b9c9-503f22d65b60",
-      "width": 0,
+      "width": 64,
       "x": 512,
       "y": 128,
       "zOrder": 34,
@@ -441,13 +425,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "2aafd919-5fbe-4439-b8ee-3dd4743aea2b",
-      "width": 0,
+      "width": 64,
       "x": 576,
       "y": -96,
       "zOrder": 35,
@@ -457,13 +441,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "b276b3fd-b100-42c3-8275-569edb73329f",
-      "width": 0,
+      "width": 64,
       "x": 224,
       "y": -96,
       "zOrder": 36,
@@ -473,13 +457,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "34137f2b-b5d1-4005-b473-5d8e2d41ee2d",
-      "width": 0,
+      "width": 64,
       "x": 640,
       "y": -224,
       "zOrder": 37,
@@ -505,13 +489,13 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "height": 32,
       "layer": "",
       "locked": false,
       "name": "platMP",
       "persistentUuid": "e9de9123-45a1-473f-9922-1463ecdb972b",
-      "width": 0,
+      "width": 64,
       "x": 160,
       "y": -224,
       "zOrder": 39,
@@ -547,22 +531,6 @@
       "x": 384,
       "y": -416,
       "zOrder": 41,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "height": 32,
-      "layer": "",
-      "locked": false,
-      "name": "killbarrierMP",
-      "persistentUuid": "3ae8b29c-3037-40a0-9f1f-347ac04f1ae7",
-      "width": 1984,
-      "x": -608,
-      "y": 640,
-      "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -611,6 +579,22 @@
       "x": 0,
       "y": 0,
       "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 32,
+      "layer": "",
+      "locked": false,
+      "name": "RestartMP",
+      "persistentUuid": "36419246-9bcf-4d37-9471-2f4dcb2ef2e6",
+      "width": 1728,
+      "x": -352,
+      "y": 608,
+      "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3596,25 +3580,11 @@
         {
           "type": {
             "inverted": false,
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "CharacterMP",
-            "=",
-            "-32",
-            "=",
-            "460"
-          ],
-          "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
             "value": "Scene"
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene \"",
+            "\"MiguelsGameOverScene\"",
             ""
           ],
           "subInstructions": []
@@ -4213,7 +4183,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene \"",
+            "\"MiguelsGameOverScene\"",
             ""
           ],
           "subInstructions": []
@@ -4245,24 +4215,12 @@
         {
           "type": {
             "inverted": false,
-            "value": "ModVarScene"
+            "value": "Scene"
           },
           "parameters": [
-            "CheckpointX",
-            "=",
-            "Checkpoint.X()"
-          ],
-          "subInstructions": []
-        },
-        {
-          "type": {
-            "inverted": false,
-            "value": "ModVarScene"
-          },
-          "parameters": [
-            "CheckpointY",
-            "=",
-            "Checkpoint.Y()"
+            "",
+            "\"MiguelsGameOverScene \"",
+            ""
           ],
           "subInstructions": []
         }

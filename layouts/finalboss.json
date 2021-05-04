@@ -6427,6 +6427,18 @@
             "\"deathtimer2\""
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"MiguelsGameOverScene \"",
+            ""
+          ],
+          "subInstructions": []
         }
       ],
       "events": []
@@ -6469,7 +6481,7 @@
           },
           "parameters": [
             "",
-            "\"MiguelsGameOverScene \"",
+            "\"MiguelsGameOverScene\"",
             ""
           ],
           "subInstructions": []
@@ -9207,7 +9219,7 @@
                       "parameters": [
                         "ReaperBoss",
                         "Health",
-                        "50",
+                        "100",
                         ""
                       ],
                       "subInstructions": []
