@@ -267,6 +267,19 @@
             "Left"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "RestartButton",
+            "",
+            "",
+            ""
+          ],
+          "subInstructions": []
         }
       ],
       "actions": [
@@ -391,6 +404,19 @@
           "parameters": [
             "",
             "Left"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "HomeButton",
+            "",
+            "",
+            ""
           ],
           "subInstructions": []
         }
