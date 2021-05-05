@@ -6781,6 +6781,33 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "userAdded": true
+      },
+      {
+        "file": "GameArt/Realm of the Mad God Main Theme (64 kbps).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Realm of the Mad God Main Theme (64 kbps).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Final Fantasy VII - J-E-N-O-V-A [HQ] (64 kbps).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Final Fantasy VII - J-E-N-O-V-A [HQ] (64 kbps).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": false
+      },
+      {
+        "file": "GameArt/The Woodlands -Octopath Traveler (64 kbps).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\The Woodlands -Octopath Traveler (64 kbps).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
