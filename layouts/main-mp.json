@@ -528,7 +528,7 @@
       "name": "BossMP",
       "persistentUuid": "9972e04b-ac04-4e12-aedf-76ce965b7d9e",
       "width": 128,
-      "x": 384,
+      "x": 320,
       "y": -416,
       "zOrder": 41,
       "numberProperties": [],
@@ -4329,7 +4329,7 @@
           },
           "parameters": [
             "",
-            "Realm of the Mad God Soundtrack - Title BGM.mp3",
+            "GameArt\\yt1s.com - Realm of the Mad God Main Theme.mp3",
             "",
             "",
             ""

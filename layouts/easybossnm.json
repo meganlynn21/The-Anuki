@@ -8116,6 +8116,52 @@
       "disabled": false,
       "folded": false,
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ],
+          "subInstructions": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "inverted": false,
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "GameArt\\Boss Battle music 1.mp3",
+            "",
+            "50",
+            "1"
+          ],
+          "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "SetGameResolutionSize"
+          },
+          "parameters": [
+            "",
+            "800",
+            "600"
+          ],
+          "subInstructions": []
+        }
+      ],
+      "events": []
+    },
+    {
+      "disabled": false,
+      "folded": false,
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": [
         {
@@ -8489,10 +8535,11 @@
         {
           "type": {
             "inverted": false,
-            "value": "Delete"
+            "value": "Scene"
           },
           "parameters": [
-            "MainPlayer",
+            "",
+            "\"MiguelsGameOverScene \"",
             ""
           ],
           "subInstructions": []
@@ -8575,40 +8622,6 @@
             "Female Battle Cry1.mp3",
             "",
             "30",
-            "1"
-          ],
-          "subInstructions": []
-        }
-      ],
-      "events": []
-    },
-    {
-      "disabled": false,
-      "folded": false,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": false,
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ],
-          "subInstructions": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "inverted": false,
-            "value": "PlayMusic"
-          },
-          "parameters": [
-            "",
-            "Boss Battle music 1.mp3",
-            "",
-            "50",
             "1"
           ],
           "subInstructions": []

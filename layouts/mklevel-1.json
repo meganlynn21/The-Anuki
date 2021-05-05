@@ -23,7 +23,7 @@
     "gridWidth": 80,
     "snap": false,
     "windowMask": false,
-    "zoomFactor": 0.05
+    "zoomFactor": 0.15000000000000002
   },
   "objectsGroups": [],
   "variables": [
@@ -64,7 +64,7 @@
       "name": "EdmundMK",
       "persistentUuid": "0daa6714-f98b-4039-a11f-e959b0d1e667",
       "width": 310,
-      "x": -7257,
+      "x": -7270,
       "y": 579,
       "zOrder": 5000,
       "numberProperties": [],
@@ -9235,7 +9235,7 @@
           },
           "parameters": [
             "",
-            "GameArt\\Sounds\\yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+            "GameArt\\yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
             "yes",
             "80",
             ""
