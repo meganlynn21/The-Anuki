@@ -9273,6 +9273,16 @@
             "1000"
           ],
           "subInstructions": []
+        },
+        {
+          "type": {
+            "inverted": false,
+            "value": "Cache"
+          },
+          "parameters": [
+            "StarMK2"
+          ],
+          "subInstructions": []
         }
       ],
       "events": []
