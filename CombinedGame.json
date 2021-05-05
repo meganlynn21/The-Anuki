@@ -6727,6 +6727,60 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "userAdded": true
+      },
+      {
+        "file": "My project5/yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "My project5\\yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\yt1s.com - Final Fantasy VII  JENOVA Extended.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/yt1s.com - Realm of the Mad God Main Theme.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\yt1s.com - Realm of the Mad God Main Theme.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/The Woodlands -Octopath Traveler.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\The Woodlands -Octopath Traveler.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Boss Battle music 1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Boss Battle music 1.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "file": "GameArt/Octopath Traveler OST  The Highlands.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "GameArt\\Octopath Traveler OST  The Highlands.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
